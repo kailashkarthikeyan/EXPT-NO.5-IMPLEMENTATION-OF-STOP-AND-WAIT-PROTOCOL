@@ -70,13 +70,7 @@ $ns run
  
 # OUTPUT
 
-
-
-
-
-
-
-
+![WhatsApp Image 2025-11-19 at 10 06 53 AM](https://github.com/user-attachments/assets/d8438887-56e6-452c-8db5-a850bdf593be)
 
 # RESULT
 Thus the Stop and Wait protocol is implemented using NS2 and the output is verified successfully.
